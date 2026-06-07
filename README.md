@@ -6,9 +6,11 @@ Weekend Agent 面向“周末临时出门”的本地生活场景。用户只需
 
 本项目不是静态搜索列表，而是一个可执行 Planning Agent：它会把模糊需求拆成结构化约束，调用本地生活工具，校验预算、路线、天气、余位和亲子适配，再输出唯一推荐方案。
 
-## Demo 界面
+## Demo 演示视频
 
-![Weekend Agent Demo UI](docs/assets/ui-screenshot.png)
+<video src="./演示视频(1).mp4" controls width="100%"></video>
+
+[如果 GitHub 无法直接播放，请点击打开演示视频](./演示视频(1).mp4)
 
 ## 1. 系统架构
 
