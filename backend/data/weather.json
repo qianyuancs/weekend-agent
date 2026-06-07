@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-05-24",
+    "city": "北京",
+    "condition": "cloudy",
+    "temperature": 26,
+    "rain_probability": 25,
+    "suggestion": "适合短途室内外结合活动"
+  },
+  {
+    "date": "2026-05-25",
+    "city": "北京",
+    "condition": "rain",
+    "temperature": 22,
+    "rain_probability": 80,
+    "suggestion": "优先选择室内活动和近距离餐厅"
+  }
+]
