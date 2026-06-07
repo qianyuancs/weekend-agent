@@ -6,6 +6,10 @@ Weekend Agent 面向“周末临时出门”的本地生活场景。用户只需
 
 本项目不是静态搜索列表，而是一个可执行 Planning Agent：它会把模糊需求拆成结构化约束，调用本地生活工具，校验预算、路线、天气、余位和亲子适配，再输出唯一推荐方案。
 
+## Demo 界面
+
+![Weekend Agent Demo UI](docs/assets/ui-screenshot.png)
+
 ## 1. 系统架构
 
 项目采用前后端分离架构：
@@ -164,4 +168,3 @@ Planning Core 只依赖这些统一字段，而不依赖具体平台。因此餐
 打车车型选择
 Mock 预约/下单
 ```
-
